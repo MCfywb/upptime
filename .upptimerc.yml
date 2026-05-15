@@ -8,7 +8,7 @@ sites:
   - name: blog(backup)
     url: https://www.mcfywb.top
   - name: storge
-    url: https://git.mcfywb.top
+    url: https://file.mcfywb.top
     medthod: GET
   - name: image
     url: https://img.mcfywb.top
