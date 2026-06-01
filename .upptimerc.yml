@@ -15,7 +15,7 @@ sites:
     expectedStatusCodes:
       - 404
   - name: meting-api
-    url: https://api.mcfywb.top
+    url: https://meting.mcfywb.top
   #- name: chat history backup
     #url: https://chat.mcfywb.top
     #expectedStatusCodes:
