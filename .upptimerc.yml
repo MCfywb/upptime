@@ -9,7 +9,7 @@ sites:
     url: https://www.mcfywb.top
   - name: storge
     url: https://file.mcfywb.top
-    medthod: GET
+    #medthod: GET
   - name: image
     url: https://img.mcfywb.top
     expectedStatusCodes:
