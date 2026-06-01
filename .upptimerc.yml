@@ -9,17 +9,14 @@ sites:
     url: https://www.mcfywb.top
   - name: storge
     url: https://file.mcfywb.top
-    #medthod: GET
   - name: image
     url: https://img.mcfywb.top
     expectedStatusCodes:
       - 404
   - name: meting-api
     url: https://meting.mcfywb.top
-  #- name: chat history backup
-    #url: https://chat.mcfywb.top
-    #expectedStatusCodes:
-      #- 403
+  - name: twikoo
+    url: https://twikoo.mcfywb.top
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
