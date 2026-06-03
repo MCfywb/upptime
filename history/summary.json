@@ -4,10 +4,10 @@
     "url": "https://mcfywb.top",
     "icon": "https://mcfywb.top/favicon.ico",
     "slug": "blog-main",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1513,
@@ -15,17 +15,19 @@
     "timeWeek": 1538,
     "timeMonth": 1513,
     "timeYear": 1513,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-03": 1
+    }
   },
   {
     "name": "blog(backup)",
     "url": "https://www.mcfywb.top",
     "icon": "https://www.mcfywb.top/favicon.ico",
     "slug": "blog-backup",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1524,
@@ -33,17 +35,19 @@
     "timeWeek": 1687,
     "timeMonth": 1524,
     "timeYear": 1524,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-03": 1
+    }
   },
   {
     "name": "storge",
     "url": "https://file.mcfywb.top",
     "icon": "https://file.mcfywb.top/static/img/icons/favicon.ico",
     "slug": "storge",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1132,
@@ -51,7 +55,9 @@
     "timeWeek": 943,
     "timeMonth": 1132,
     "timeYear": 1132,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-03": 1
+    }
   },
   {
     "name": "image",
@@ -76,9 +82,9 @@
     "url": "https://meting.mcfywb.top",
     "icon": "https://icons.duckduckgo.com/ip3/meting.mcfywb.top.ico",
     "slug": "meting-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,14 +93,16 @@
     "timeWeek": 963,
     "timeMonth": 981,
     "timeYear": 981,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-03": 0
+    }
   },
   {
     "name": "twikoo",
     "url": "https://twikoo.mcfywb.top",
     "icon": "https://twikoo.js.org/twikoo-logo-mini.png",
     "slug": "twikoo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
