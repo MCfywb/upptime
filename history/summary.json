@@ -64,17 +64,17 @@
     "url": "https://img.mcfywb.top",
     "icon": "https://console.dogecloud.com/images/icon/favicon.png",
     "slug": "image",
-    "status": "down",
-    "uptime": "96.26%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "80.82%",
-    "uptimeMonth": "94.54%",
-    "uptimeYear": "96.26%",
-    "time": 1488,
-    "timeDay": 1338,
-    "timeWeek": 1456,
-    "timeMonth": 1482,
-    "timeYear": 1488,
+    "status": "up",
+    "uptime": "96.20%",
+    "uptimeDay": "97.30%",
+    "uptimeWeek": "80.43%",
+    "uptimeMonth": "94.46%",
+    "uptimeYear": "96.20%",
+    "time": 1486,
+    "timeDay": 1369,
+    "timeWeek": 1451,
+    "timeMonth": 1480,
+    "timeYear": 1486,
     "dailyMinutesDown": {
       "2026-07-23": 131,
       "2026-07-27": 187,
@@ -82,7 +82,7 @@
       "2026-08-13": 492,
       "2026-08-12": 1440,
       "2026-08-11": 2,
-      "2026-08-15": 0
+      "2026-08-15": 39
     }
   },
   {
