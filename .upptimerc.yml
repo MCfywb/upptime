@@ -6,22 +6,30 @@ sites:
   - name: blog(main)
     url: https://mcfywb.top
     icon: https://mcfywb.top/favicon.ico
-  - name: blog(backup)
-    url: https://www.mcfywb.top
-    icon: https://www.mcfywb.top/favicon.ico
+  - name: blog(github)
+    url: https://mcfywb.github.io
+    icon: https://mcfywb.github.io/favicon.ico
+  - name: twikoo
+    url: https://twikoo.mcfywb.top
+    icon: https://twikoo.js.org/twikoo-logo-mini.png
   - name: storge
     url: https://file.mcfywb.top
     icon: https://file.mcfywb.top/static/img/icons/favicon.ico
+  - name: orange-generator
+    url: https://orange.mcfywb.top
+    icon: https://orange.mcfywb.top/orange-angelina.svg
   - name: image
     url: https://img.mcfywb.top
     icon: https://console.dogecloud.com/images/icon/favicon.png
     expectedStatusCodes:
       - 404
+  - name: cdn
+    url: https://cdn.mcfywb.top
+    icon: https://console.dogecloud.com/images/icon/favicon.png
+    expectedStatusCodes:
+      - 404
   - name: meting-api
     url: https://meting.mcfywb.top
-  - name: twikoo
-    url: https://twikoo.mcfywb.top
-    icon: https://twikoo.js.org/twikoo-logo-mini.png
   - name: img2color
     url: https://color.mcfywb.top/api
     expectedStatusCodes:
