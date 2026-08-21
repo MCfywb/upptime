@@ -30,8 +30,10 @@ sites:
       - 404
   - name: meting-api
     url: https://meting.mcfywb.top
+    icon: https://vercel.com/favicon.ico
   - name: img2color
     url: https://color.mcfywb.top/api
+    icon: https://vercel.com/favicon.ico
     expectedStatusCodes:
       - 400
 
