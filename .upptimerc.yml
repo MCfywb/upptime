@@ -3,12 +3,9 @@ owner: MCfywb # Your GitHub organization or username, where this repository live
 repo: upptime # The name of this repository
 
 sites:
-  - name: blog(main)
+  - name: blog
     url: https://mcfywb.top
     icon: https://mcfywb.top/favicon.ico
-  - name: blog(github)
-    url: https://mcfywb.github.io
-    icon: https://mcfywb.github.io/favicon.ico
   - name: twikoo
     url: https://twikoo.mcfywb.top
     icon: https://twikoo.js.org/twikoo-logo-mini.png
